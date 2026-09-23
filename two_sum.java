@@ -24,3 +24,4 @@ class two_sum {
         System.out.println(Arrays.toString(twoSum(nums, target)));
     }
 }
+//hELLO
